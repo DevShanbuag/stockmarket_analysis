@@ -1,0 +1,16 @@
+Stock,Anomaly_Type,Count
+TCS.NS,Volume Spike,18
+TCS.NS,Price + Volume,7
+TCS.NS,Price Movement,5
+ICICIBANK.NS,Price + Volume,3
+ICICIBANK.NS,Volume Spike,15
+ICICIBANK.NS,Price Movement,7
+HDFCBANK.NS,Volume Spike,18
+HDFCBANK.NS,Price + Volume,4
+HDFCBANK.NS,Price Movement,6
+INFY.NS,Volume Spike,14
+INFY.NS,Price + Volume,8
+INFY.NS,Price Movement,4
+RELIANCE.NS,Price + Volume,3
+RELIANCE.NS,Volume Spike,16
+RELIANCE.NS,Price Movement,5
